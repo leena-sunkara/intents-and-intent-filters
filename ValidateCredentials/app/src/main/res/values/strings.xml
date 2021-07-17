@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ValidateCredentials</string>
+    <string name="start">Get Started</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">WELCOME</string>
+</resources>
